@@ -1,0 +1,8 @@
+D:\bluemix_app\endqueue\src\DotnetCloudantWebstarter\bin\Debug\netcoreapp1.0\DotnetCloudantWebstarter.deps.json
+D:\bluemix_app\endqueue\src\DotnetCloudantWebstarter\bin\Debug\netcoreapp1.0\DotnetCloudantWebstarter.runtimeconfig.json
+D:\bluemix_app\endqueue\src\DotnetCloudantWebstarter\bin\Debug\netcoreapp1.0\DotnetCloudantWebstarter.runtimeconfig.dev.json
+D:\bluemix_app\endqueue\src\DotnetCloudantWebstarter\bin\Debug\netcoreapp1.0\DotnetCloudantWebstarter.dll
+D:\bluemix_app\endqueue\src\DotnetCloudantWebstarter\bin\Debug\netcoreapp1.0\DotnetCloudantWebstarter.pdb
+D:\bluemix_app\endqueue\src\DotnetCloudantWebstarter\obj\Debug\netcoreapp1.0\DotnetCloudantWebstarter.AssemblyInfo.cs
+D:\bluemix_app\endqueue\src\DotnetCloudantWebstarter\obj\Debug\netcoreapp1.0\DotnetCloudantWebstarter.dll
+D:\bluemix_app\endqueue\src\DotnetCloudantWebstarter\obj\Debug\netcoreapp1.0\DotnetCloudantWebstarter.pdb
